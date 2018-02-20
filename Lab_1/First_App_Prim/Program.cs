@@ -12,7 +12,7 @@ namespace First_App_Prim
 {
    class Program
     {
-        private static int width = 1280, height = 720;
+        private static int width = 1290, height = 720;
         private static ShaderProgram program, program_b;
         private static VBO<Vector3> cube, cube_2, background;
         private static VBO<Vector3> cubeColor, cubeColor_2;
