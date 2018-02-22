@@ -1,0 +1,8 @@
+c:\users\лера\documents\visual studio 2013\Projects\First_App_Prim\First_App_Prim\bin\Debug\First_App_Prim.exe.config
+c:\users\лера\documents\visual studio 2013\Projects\First_App_Prim\First_App_Prim\bin\Debug\First_App_Prim.exe
+c:\users\лера\documents\visual studio 2013\Projects\First_App_Prim\First_App_Prim\bin\Debug\First_App_Prim.pdb
+c:\users\лера\documents\visual studio 2013\Projects\First_App_Prim\First_App_Prim\obj\Debug\First_App_Prim.csprojResolveAssemblyReference.cache
+c:\users\лера\documents\visual studio 2013\Projects\First_App_Prim\First_App_Prim\obj\Debug\First_App_Prim.exe
+c:\users\лера\documents\visual studio 2013\Projects\First_App_Prim\First_App_Prim\obj\Debug\First_App_Prim.pdb
+C:\Users\Лера\Documents\Visual Studio 2013\Projects\First_App_Prim\First_App_Prim\obj\Debug\First_App_Prim.Properties.Resources.resources
+C:\Users\Лера\Documents\Visual Studio 2013\Projects\First_App_Prim\First_App_Prim\obj\Debug\First_App_Prim.csproj.GenerateResource.Cache
